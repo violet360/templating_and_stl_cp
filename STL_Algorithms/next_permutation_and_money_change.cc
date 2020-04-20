@@ -10,7 +10,6 @@ using std::next_permutation;
 //Implementation of next permutations.
 void permutation_next()
 {
-    fast_code
     vector<int> v{1,2,3}; int it=0; int n;
     
     while(it < v.size())
